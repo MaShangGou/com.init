@@ -1,0 +1,2 @@
+# com.init
+init
